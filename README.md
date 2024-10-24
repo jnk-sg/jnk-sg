@@ -1,6 +1,5 @@
 👋 Hi, I’m @jnk-sg
-👀 I’m interested in Python programming, game develpment, AI
-🌱 I’m currently learning PySide6, just a bit of AI
+👀 I’m interested in Python programming, game develpment
 📫 How to reach me: send email to devjnksg@gmail.com
 
 <!---
